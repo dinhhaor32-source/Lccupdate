@@ -1,0 +1,9 @@
+node_modules/
+*.log
+*.sql
+*.jsonl
+*.db
+*.sqlite
+sun_history.json
+logic_performance.json
+.DS_Store
