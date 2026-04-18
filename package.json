@@ -1,0 +1,22 @@
+{
+  "name": "sunwin-predictor",
+  "version": "1.0.0",
+  "description": "Sunwin Tai Xiu prediction server",
+  "main": "severv2.js",
+  "scripts": {
+    "start": "node severv2.js"
+  },
+  "dependencies": {
+    "fastify": "^4.28.0",
+    "@fastify/websocket": "^8.3.0",
+    "ws": "^8.17.0",
+    "sqlite3": "^5.1.7",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
